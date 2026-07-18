@@ -1,1 +1,1 @@
-v1: sandbox hello-world for CI/CD platform kaniko build E2E
+v2: sandbox hello-world for CI/CD platform kaniko build E2E
