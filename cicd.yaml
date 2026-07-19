@@ -1,0 +1,10 @@
+# P2-T09 fail-open proof: lint deliberately exits non-zero -> UNSTABLE -> BUILT_WITH_WARNINGS.
+app: sandbox
+template: docker-kaniko-build
+build:
+  image: sandbox
+  dockerfile: Dockerfile
+  context: .
+  lintCommand: "exit 1"
+scans:
+  trivy: true
