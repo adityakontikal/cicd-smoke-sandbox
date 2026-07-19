@@ -1,1 +1,1 @@
-v4: sandbox hello-world for CI/CD platform kaniko build E2E
+v5: sandbox hello-world for CI/CD platform kaniko build E2E (JDK21 jnlp)
