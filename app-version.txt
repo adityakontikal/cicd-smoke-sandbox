@@ -1,1 +1,1 @@
-v6: sandbox hello-world for CI/CD platform kaniko build E2E (registry URL fix)
+v7: sandbox for CI/CD platform fail-open proof (BUILT_WITH_WARNINGS)
