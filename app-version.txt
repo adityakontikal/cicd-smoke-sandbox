@@ -1,1 +1,1 @@
-v5: sandbox hello-world for CI/CD platform kaniko build E2E (JDK21 jnlp)
+v6: sandbox hello-world for CI/CD platform kaniko build E2E (registry URL fix)
